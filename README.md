@@ -1,3 +1,18 @@
+# 1. Clone the repository
+git clone https://github.com/iampraveen08/clock-app.git
+
+# 2. Navigate into the project directory
+cd clock-app
+
+# 3. Install the required dependencies
+npm install
+
+# 4. Start the development server
+npm start
+
+# 5. Open the app in your browser (if it doesn't open automatically)
+# Go to http://localhost:3000
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
